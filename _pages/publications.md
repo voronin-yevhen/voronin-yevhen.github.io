@@ -33,7 +33,7 @@ Voronin, Y. (2025). Exploring Personal Recommendations from New Contacts in the 
 1. Voronin, Y. (2025). The Context of Cultural Choices: Dataset, Questionnaire and Variable Report [Survey] (Version 1) [Dataset]. Zenodo. [https://doi.org/10.5281/ZENODO.15460086](https://doi.org/10.5281/ZENODO.15460086){:target="_blank"}
 2. Akdeniz, E., Borschewski, K., Breuer, J., & Voronin, Y. (2022). Survey—Accessing, (re)using, and sharing social media data in academia (Version 1.1) [Dataset]. GESIS Data Archive. [https://doi.org/10.7802/2418](https://doi.org/10.7802/2418){:target="_blank"}
 
-### Other publications {:target="_blank"}
+### Other publications
 1. Voronin, Y. (2025). Poster Presentation: Cultural Omnivorousness in the Domains of Music, Film and Literature: Evidence for a Partial Overlap [2025]. 5th Conference of the Academy of Sociology (AS), Johannes Gutenberg-University Mainz, Germany. Zenodo. [https://doi.org/10.5281/zenodo.17379219](https://doi.org/10.5281/zenodo.17379219){:target="_blank"}
 2. Bishop, L., Broeder, D., van den Heuvel, H., Kleiner, B., Lichtwardt, B., Wiltshire, D., & Voronin, Y. (2022). D5.10: White Paper on Remote Access to Sensitive Data in the Social Sciences and Humanities: 2021 and beyond. Zenodo. [https://doi.org/10.5281/zenodo.6719121](https://doi.org/10.5281/zenodo.6719121)
 3. Vavra, M., Kleiner, B., Voronin., Y., & Jurgens, P. (2022). New Data Types in Data Management and Archiving [Webinar recording]. Zenodo. [https://doi.org/10.5281/zenodo.7785149](https://doi.org/10.5281/zenodo.7785149){:target="_blank"}
