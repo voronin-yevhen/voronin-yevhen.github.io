@@ -45,8 +45,10 @@
 
 /* Tighter normal text spacing */
 .page__content p,
-.page__content li {
+.page__content li,
+.page__content dl {
   line-height: 1.25;
+  font-size: $type-size-5;
 }
 
 /* Optional: headings a bit tighter too */
@@ -64,9 +66,5 @@ ul li, ol li {
 }
 
 .author__urls a {
-    margin-bottom: 0px;
+    margin-bottom: 0.05px;
 }
-
-p, li, dl {
-   font-size: $type-size-5;
- }
