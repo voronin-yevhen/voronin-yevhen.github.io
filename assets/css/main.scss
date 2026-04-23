@@ -46,7 +46,8 @@
 /* Tighter normal text spacing */
 .page__content p,
 .page__content li,
-.page__content dl {
+.page__content dl,
+.page__content ul {
   line-height: 1.25;
   font-size: $type-size-5;
 }
