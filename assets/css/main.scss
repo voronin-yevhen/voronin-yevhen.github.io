@@ -41,3 +41,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* Tighter normal text spacing */
+.page__content p,
+.page__content li {
+  line-height: 1.2;
+}
+
+/* Optional: headings a bit tighter too */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  line-height: 1.2;
+}
