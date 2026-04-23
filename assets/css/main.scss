@@ -43,16 +43,15 @@
 ;
 
 
-/* Tighter normal text spacing */
+/* Assing font size */
 .page__content p,
 .page__content li,
 .page__content dl,
 .page__content ul {
-  line-height: 1.25;
   font-size: $type-size-5;
 }
 
-/* Optional: headings a bit tighter too */
+/* Headings a bit tighter too */
 .page__content h1,
 .page__content h2,
 .page__content h3,
@@ -62,10 +61,12 @@
   line-height: 1.2;
 }
 
+/* Margin bottom */
 ul li, ol li {
     margin-bottom: 0.2em;
 }
 
+/* Margin bottom */
 .author__urls a {
     margin-bottom: 0.05px;
 }
