@@ -9,14 +9,14 @@ author_profile: true
 
 ### Seminar: Sociology of Consumption (3/4 ECTS)
 
-* Times taught: 14
+* Times taught: 11
 * Teaching language: English
 * Program: BA Sociology, BA-Combined Social Science, University of Wuppertal, Germany
 * Recent course evaluation (winter semester 25): Struktur und Didaktik 1,3; Interaktion und Betreuung 1,1; Gesamteindruck 1,5.
 
 ### Seminar: Introduction to the Consumer Society (3 ECTS)
 
-* Times taught: 14
+* Times taught: 1
 * Teaching language: English
 * Program: BA-Combined Social Science, University of Wuppertal, Germany
 
