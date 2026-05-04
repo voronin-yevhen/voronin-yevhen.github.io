@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+### About
 I am a research fellow in sociology at the [University of Wuppertal](https://sociology.uni-wuppertal.de/de/team/yevhen-voronin/){:target="_blank"}, with scientific interests in quantitative sociology and computational social science; consumption and taste; cultural stratification; cultural policies; social transformations; inequality and redistribution. 
 
 I completed my bachelor's degree (BA) in sociology at the National University of Kyiv-Mohyla Academy (Kyiv, Ukraine) and my master's degree (MSc) in sociology and social research at the University of Cologne (Cologne, Germany). From 2019 to 2022, I worked at GESIS, initially as a student assistant and later as a researcher in the Metadata Team (Data Services for the Social Sciences Department). In 2022, I joined the University of Wuppertal to pursue my Ph.D. dissertation.
