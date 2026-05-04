@@ -1,3 +1,8 @@
+---
+sitemap: false
+published: false
+---
+
 # Markdown Generator
 
 This directory contains various ways of creating Markdown for your site. In general, filenames that end with `.ipynb` or `.py` are similar, but may contain different documentation or are intended to be run from with GitHub when deploying your site.
