@@ -17,11 +17,11 @@ author_profile: true
 
 ### Dissertation
 
-Voronin, Y. (2026). *The Social Life of Taste: Patterns and Influences in Cultural Consumption*. Bergische Universität Wuppertal, Dissertation. [https://doi.org/10.25926/BUW/0-1022](https://doi.org/10.25926/BUW/0-1022){:target="_blank"}
+- Voronin, Y. (2026). *The Social Life of Taste: Patterns and Influences in Cultural Consumption*. Bergische Universität Wuppertal, Dissertation. [https://doi.org/10.25926/BUW/0-1022](https://doi.org/10.25926/BUW/0-1022){:target="_blank"}
 
 ### Preprints
 
-1. Voronin, Y. (2025). Exploring Personal Recommendations from New Contacts in the Movie Market. SocArXiv. Preprint. [https://doi.org/10.31235/osf.io/qn8cw_v1](https://doi.org/10.31235/osf.io/qn8cw_v1){:target="_blank"}
+- Voronin, Y. (2025). Exploring Personal Recommendations from New Contacts in the Movie Market. SocArXiv. Preprint. [https://doi.org/10.31235/osf.io/qn8cw_v1](https://doi.org/10.31235/osf.io/qn8cw_v1){:target="_blank"}
 
 ### Datasets
 

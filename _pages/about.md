@@ -24,7 +24,7 @@ While working as a research fellow at the University of Wuppertal, I developed f
 See the full list of publications [here](/publications/).
 
 ### Dissertation
-1. Voronin, Y. (2026). *The Social Life of Taste: Patterns and Influences in Cultural Consumption*. Bergische Universität Wuppertal, Dissertation. [https://doi.org/10.25926/BUW/0-1022](https://doi.org/10.25926/BUW/0-1022){:target="_blank"}
+- Voronin, Y. (2026). *The Social Life of Taste: Patterns and Influences in Cultural Consumption*. Bergische Universität Wuppertal, Dissertation. [https://doi.org/10.25926/BUW/0-1022](https://doi.org/10.25926/BUW/0-1022){:target="_blank"}
 
 ### Contact
 Feel free to contact me via email [voronin[@]uni-wuppertal.de](mailto:voronin@uni-wuppertal.de) and [yevhen.voronin[@]gmail.com](mailto:yevhen.voronin@gmail.com) or on social media [LinkedIn](https://www.linkedin.com/in/yevhen-voronin/){:target="_blank"} and [BlueSky](https://bsky.app/profile/yevhenvoronin.bsky.social){:target="_blank"}.
