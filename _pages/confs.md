@@ -9,6 +9,7 @@ author_profile: true
 
 ### Recent conferences and presentations
 
+* 08/2026: ESA 2026, Warsaw [(Oral)](https://www.europeansociology.org/conference/2026/article/b95b634a-667e-43cf-ba07-5cd74e28c866){:target="_blank"}
 * 06/2026: Seminar by Weitblick Bundesverband & Gustav-Stresemann-Institut, Bonn [(Workshop “Consumption in times of crisis")](https://weitblicker.org/bundesverband/news/2186/){:target="_blank"}
 * 10/2025: 5th Conference of the Academy of Sociology 2025, Mainz [(Oral & Poster)](https://as25.sociology.uni-mainz.de/poster-session/#strongcultural-omnivorousness-in-the-domains-of-music-film-and-literature-evidence-for-a-partial-overlap-strong){:target="_blank"}
 * 09/2025: ECSR Annual Conference 2025, Cologne [(Poster)](https://uni-koeln.converia.de/frontend/index.php?page_id=2542&v=AuthorList&do=17&day=all&q=voronin&entity_id=20107){:target="_blank"}
