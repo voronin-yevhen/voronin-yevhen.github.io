@@ -11,7 +11,7 @@ author_profile: true
 
 * 08/2026: ESA 2026, Warsaw [(Oral)](https://www.europeansociology.org/conference/2026/article/b95b634a-667e-43cf-ba07-5cd74e28c866){:target="_blank"}
 * 06/2026: Seminar by Weitblick Bundesverband & Gustav-Stresemann-Institut, Bonn [(Workshop “Consumption in times of crisis")](https://weitblicker.org/bundesverband/news/2186/){:target="_blank"}
-* 10/2025: 5th Conference of the Academy of Sociology 2025, Mainz [(Oral & Poster)](https://as25.sociology.uni-mainz.de/poster-session/#strongcultural-omnivorousness-in-the-domains-of-music-film-and-literature-evidence-for-a-partial-overlap-strong){:target="_blank"}
+* 10/2025: 5th Conference of the Academy of Sociology, Mainz [(Oral & Poster)](https://as25.sociology.uni-mainz.de/poster-session/#strongcultural-omnivorousness-in-the-domains-of-music-film-and-literature-evidence-for-a-partial-overlap-strong){:target="_blank"}
 * 09/2025: ECSR Annual Conference 2025, Cologne [(Poster)](https://uni-koeln.converia.de/frontend/index.php?page_id=2542&v=AuthorList&do=17&day=all&q=voronin&entity_id=20107){:target="_blank"}
 * 08/2025: ESA RN05 2025, Prague [(Oral)](https://consumption2025.fhs.cuni.cz/wp-content/uploads/2025/08/book-of-abstracts-1-1.pdf){:target="_blank"}
 * 07/2025: ISA 2025, Rabat [(Oral)](https://isaconf.confex.com/isaconf/forum2025/meetingapp.cgi/Paper/158601){:target="_blank"}
@@ -20,7 +20,7 @@ author_profile: true
 * 04/2024: IMEBESS 2024, Riga [(Oral)](https://coms.events/imebess2024/data/sessions/en/session_32.html){:target="_blank"}
 * 09/2023: ECSR Annual Conference 2023, Prague [(Oral)](https://ecsr2023.soc.cas.cz/en/aktuality/final-program-out){:target="_blank"}
 * 08/2023: 4th Conference of the Academy of Sociology, Bern [(Poster)](https://www.as23.unibe.ch/unibe/portal/fak_wiso/c_dep_sowi/micro_knowsoc/content/e1298087/e1298273/e1416712/AS-Congress-2023.pdf){:target="_blank"}
-* 10/2022: CESSDA Webinar
+* 10/2022: CESSDA Webinar on new data types, online (Oral)
     * Vávra, M., Kleiner, B., Voronin, Y., & Jurgens, P. (2022). New Data Types in Data Management and Archiving [Webinar]. Zenodo. [https://doi.org/10.5281/zenodo.7078856](https://doi.org/10.5281/zenodo.7078856)
-* 06/2022: IASSIST 2022.
+* 06/2022: IASSIST 2022, Gothenburg (Workshop)
     * Bishop, L., Kondyli, D., Lace, I., & Voronin, Y. (2022). The CESSDA Data Archiving Guide: A resource for people who love data [Workshop]. Zenodo. [https://doi.org/10.5281/zenodo.6643598](https://doi.org/10.5281/zenodo.6643598)
